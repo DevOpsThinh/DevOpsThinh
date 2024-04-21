@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=devopsthinh&theme=flat&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=bee_mobile_dev&theme=dracula&response=true&border=true&time=true&icon=default)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=bee_mobile_dev&theme=swift)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
